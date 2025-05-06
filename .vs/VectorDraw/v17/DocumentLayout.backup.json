@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ichor\\Desktop\\VectorDraw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\models\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\models\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\models\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\models\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\models\\storingshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\models\\storingshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|c:\\users\\ichor\\desktop\\vectordraw\\vectordraw\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|C:\\Users\\ichor\\Desktop\\VectorDraw\\vectordraw\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FA215A2-703B-43C9-98E1-BB9150C72801}|VectorDraw\\VectorDraw.csproj|solutionrelative:vectordraw\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RectangleShape.cs",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\RectangleShape.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Models\\RectangleShape.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\RectangleShape.cs",
+              "RelativeToolTip": "VectorDraw\\Models\\RectangleShape.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:57:44.284Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Models\\Circle.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\Circle.cs",
+              "RelativeToolTip": "VectorDraw\\Models\\Circle.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAzwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:36:55.425Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\Shape.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Models\\Shape.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\Shape.cs",
+              "RelativeToolTip": "VectorDraw\\Models\\Shape.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:53:02.015Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\IShape.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Models\\IShape.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\IShape.cs",
+              "RelativeToolTip": "VectorDraw\\Models\\IShape.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:50:02.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Form1.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Form1.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Form1.cs",
+              "RelativeToolTip": "VectorDraw\\Form1.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwvw0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:50:28.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Form1.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Form1.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Form1.cs [Design]",
+              "RelativeToolTip": "VectorDraw\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:49:25.475Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Models\\Triangle.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\Triangle.cs",
+              "RelativeToolTip": "VectorDraw\\Models\\Triangle.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwFMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:57:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoringShapes.cs",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\StoringShapes.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Models\\StoringShapes.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Models\\StoringShapes.cs",
+              "RelativeToolTip": "VectorDraw\\Models\\StoringShapes.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:50:36.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\Form1.Designer.cs",
+              "RelativeToolTip": "VectorDraw\\Form1.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:11:02.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\StartScreen.cs",
+              "RelativeDocumentMoniker": "VectorDraw\\StartScreen.cs",
+              "ToolTip": "C:\\Users\\ichor\\Desktop\\VectorDraw\\VectorDraw\\StartScreen.cs [Design]",
+              "RelativeToolTip": "VectorDraw\\StartScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:18:18.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
