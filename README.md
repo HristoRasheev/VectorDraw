@@ -13,5 +13,9 @@ VectorDraw is a simple yet powerful WinForms-based vector graphics editor built 
 - 🌓 Clean, minimalist WinForms UI
 
 ## Preview
+<h3>Start Screen</h3>
+<img src="VectorDraw/startscreen.png" alt="Start Screen" width="500"/>
 
+<h3>Main Screen</h3>
+<img src="VectorDraw/main.png" alt="Main Screen" width="700"/>
 
